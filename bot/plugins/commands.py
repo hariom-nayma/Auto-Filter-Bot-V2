@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/hariomnayma"
+                                    'Developer 👨‍💻', url="https://t.me/hariomnayma"
                                 )
                         ]
                     ]
@@ -47,11 +47,11 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer', url='https://t.me/hariomnayma'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/hariom-nayma/Auto-Filter-Bot-V2-SADSOUL')
+        InlineKeyboardButton('Developer 👨‍💻', url='https://t.me/hariomnayma'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/SadBlue_bot?start=Z2V0LTQ4MjgwOTUwNzc5NTkxMC00ODc4MTc5MDUxNzk2ODU=')
     ],[
         
-        InlineKeyboardButton('Support 🛠', url='https://t.me/sadsoul_bot')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/sadsoul_group')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
