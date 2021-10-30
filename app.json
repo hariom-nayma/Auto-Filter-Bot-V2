@@ -1,5 +1,5 @@
 {
-    "name": "Auto Filter Bot V2",
+    "name": "Auto Filter Bot V2 SADSOUL",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
     "logo": "https://telegra.ph/file/6cae56a1a71342777acdc.jpg",
     "keywords": [
@@ -7,9 +7,9 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/LXR-YOUTUBER-AMAL",
-    "repository": "https://github.com/LXR-YOUTUBER-AMAL/Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/LXRBOTSGROUP",
+    "website": "https://github.com/hariom-nayma",
+    "repository": "https://github.com/hariom-nayma/Auto-Filter-Bot-V2-SADSOUL",
+    "success_url": "https://telegram.dog/sadsoul_bot",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
