@@ -11,7 +11,7 @@ Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥�
 
 For More Details Click Help Button Below..</i>
 
-<b> MusT JoiN </b> - @sadsoul_group 😍
+<b> MusT JoiN </b> - t.me/+y0AKZbkOoZdmNzVl 😍
  
 || @sadsoul_bot ||
 
