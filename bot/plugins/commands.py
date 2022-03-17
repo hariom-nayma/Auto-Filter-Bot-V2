@@ -51,7 +51,7 @@ async def start(bot, update):
         InlineKeyboardButton('Source Code 🧾', url ='https://t.me/SadBlue_bot?start=Z2V0LTQ4MjgwOTUwNzc5NTkxMC00ODc4MTc5MDUxNzk2ODU=')
     ],[
         
-        InlineKeyboardButton('Support 🛠', url='https://t.me/sadsoul_group')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/+y0AKZbkOoZdmNzVl')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
